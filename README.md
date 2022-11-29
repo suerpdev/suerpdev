@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @suerpdev
-- 👀 No one cares that you use arch stfu
+- 👀 No one cares that you use arch stfu(Arch install script 💀)
